@@ -1,1 +1,2 @@
 Record=TopLevelDocument|FileName=Mainboard-mbed.SchDoc
+Record=SheetSymbol|SourceDocument=Mainboard-mbed.SchDoc|Designator=U_Ethernet|SchDesignator=U_Ethernet|FileName=Ethernet.SchDoc|SymbolType=Normal|RawFileName=Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
