@@ -157,6 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNGKNBTK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LPC1768\Design Rule Check - Mainboard-mbed.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
