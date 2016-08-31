@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for LPC1768
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -229,82 +229,34 @@ DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GM27
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for LPC1768\Mainboard-mbed.TXT
 DItemRevisionGUID=
 
@@ -318,7 +270,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for LPC1768
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
